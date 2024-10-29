@@ -1,5 +1,5 @@
 import sys
-
+#классы
 class bisquare():
     def __init__(self):
         self.coef_a=0.0
